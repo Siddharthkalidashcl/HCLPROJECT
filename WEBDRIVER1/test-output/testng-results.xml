@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29767" started-at="2021-07-26T15:17:26Z" finished-at="2021-07-26T15:17:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29767" started-at="2021-07-26T15:17:26Z" finished-at="2021-07-26T15:17:56Z">
+      <class name="DownloadFile">
+        <test-method status="PASS" signature="DownlodModule()[pri:0, instance:DownloadFile@33a10788]" name="DownlodModule" duration-ms="29725" started-at="2021-07-26T20:47:26Z" finished-at="2021-07-26T20:47:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownlodModule -->
+      </class> <!-- DownloadFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
